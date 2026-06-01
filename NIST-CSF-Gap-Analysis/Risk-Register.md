@@ -1,27 +1,27 @@
-Security Controls - SIO 27001 Risk Assessment
+ISO 27001 Risk Assessment
 
-These are the recommened controls that address the risks identified in the asseessment.
+These are the recommended controls that address the risks identified in the assessment. Each control helps strengthen the organisation’s security posture and reduce overall exposure.
 
-1. Multi-Factor Authentication (MFA) - Adds an extra layer of protection and reduces unauthorised access.
-   
-2. Storng Password Policy - Sets clear rules for password length, complexity and reuse.
+1. Multi‑Factor Authentication — Adds an extra layer of protection and reduces the chance of unauthorised access.
 
-3. Centralised Logging and Monitoring - Helps detect suspicious activity and respond faster to incidents.
+2. Strong Password Policy — Sets clear rules for password length, complexity, and reuse to improve account security.
 
-4. Patch Management Process - Ensures systems are updated reguarly to reduce vulnerabilities.
+3. Centralised Logging and Monitoring — Improves visibility across systems, helping detect suspicious activity and respond faster to incidents.
 
-5. Vendor Risk Assessments - Checks the security of thrid-party vendors before and during engagement.
+4. Patch Management Process — Ensures systems and applications are updated regularly to reduce vulnerabilities.
 
-6. Incident Response Plan - Provides a clear process for handling security incidents.
+5. Vendor Risk Assessments — Reviews the security of third‑party vendors before and during engagement to manage external risks.
 
-7. Endpoint Protection/ EDR - Improves detection of malware and unusual device behaviour.
+6. Incident Response Plan — Provides a clear, structured process for identifying, containing, and recovering from security incidents.
 
-8. Assest Inventory - Keeps track of all hardware and software so nothing is left unmanaged.
+7. Endpoint Protection / EDR — Helps detect malware, suspicious behaviour, and compromised devices.
 
-9. Least Privilege Access - Ensure users only have the access they need.
+8. Asset Inventory — Keeps track of all hardware, software, and cloud services so nothing is left unmanaged.
 
-10. Backup and Recovery Testing - Confirms backups work and can be restored when needed.
+9. Least Privilege Access — Ensures users only have the access they need to perform their roles.
 
-11. Secure Remote Access - Uses VPN, MFA and logging to protect remote connections.
+10. Backup and Recovery Testing — Confirms backups are working and can be restored during an incident.
 
-12. Security Awareness Training -  Helps staff recognise phishing and other threats.
+11. Secure Remote Access — Uses VPN, MFA, and logging to protect remote connections and reduce exposure.
+
+12. Security Awareness Training — Helps staff recognise phishing, social engineering, and other common threats.
