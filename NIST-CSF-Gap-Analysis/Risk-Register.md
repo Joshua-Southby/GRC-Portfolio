@@ -8,7 +8,7 @@ These are the recommened controls that address the risks identified in the assee
 
 3. Centralised Logging and Monitoring - Helps detect suspicious activity and respond faster to incidents.
 
-4.mPatch Management Process - Ensures systems are updated reguarly to reduce vulnerabilities.
+4. Patch Management Process - Ensures systems are updated reguarly to reduce vulnerabilities.
 
 5. Vendor Risk Assessments - Checks the security of thrid-party vendors before and during engagement.
 
