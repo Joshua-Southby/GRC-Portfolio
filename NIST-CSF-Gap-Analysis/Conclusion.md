@@ -1,0 +1,6 @@
+Conclusion — ISO 27001 Risk Assessment
+This assessment gives the organisation a clear picture of where its security stands today and what needs attention moving forward. The main issues identified — weak access controls, limited monitoring, inconsistent patching, and the absence of structured processes — all contribute to a higher level of risk than the organisation should be comfortable with. None of these gaps are unusual, but they do create opportunities for attackers and make it harder to respond effectively when incidents occur.
+
+The recommended improvements focus on practical steps that will have an immediate impact. Strengthening authentication, improving visibility through centralised logging, introducing a proper patching process, reviewing key vendors, and building a tested incident response plan will all help reduce risk and improve day‑to‑day security. These changes also move the organisation closer to what ISO 27001 expects from a mature security program.
+
+Overall, the assessment shows that the organisation has a solid foundation but needs more structure and consistency in how security is managed. By addressing the gaps outlined in this report, the organisation will be in a much stronger position to protect its systems, respond to incidents, and continue working toward full ISO 27001 alignment.
