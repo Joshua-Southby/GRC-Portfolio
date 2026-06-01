@@ -1,0 +1,9 @@
+Security Controls — ISO 27001 Risk Assessment
+
+The recommended security controls below are designed to address the risks identified during the assessment and strengthen the organisation’s overall security posture. Multi‑factor authentication is one of the most important improvements, as it adds an extra layer of protection and makes unauthorised access far less likely. Alongside this, a strong password policy helps ensure that accounts are protected with passwords that meet clear requirements for length, complexity, and reuse.
+
+Centralised logging and monitoring is another key control, giving the organisation better visibility into system activity and helping it detect suspicious behaviour more quickly. A structured patch management process is also essential, as it ensures systems are updated regularly and reduces exposure to known vulnerabilities. Vendor risk assessments play an important role as well, helping the organisation understand how third‑party providers handle security before and during engagement.
+
+A formal incident response plan provides a clear process for identifying, containing, and recovering from security incidents, reducing confusion and downtime when issues occur. Endpoint protection or EDR tools help detect malware and unusual device behaviour, while maintaining an accurate asset inventory ensures that all hardware and software are tracked and managed properly. Applying least‑privilege access further reduces risk by ensuring users only have the permissions they genuinely need.
+
+Regular backup and recovery testing confirms that data can be restored when required, which is critical during incidents such as ransomware attacks. Secure remote access, supported by VPN, MFA, and proper logging, helps protect staff who work off‑site. Finally, ongoing security awareness training helps employees recognise phishing attempts and other common threats, making them an active part of the organisation’s defence.
